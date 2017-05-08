@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="doubao-web-customer:war">
+    <output-path>$PROJECT_DIR$/doubao-web-customer/target</output-path>
+    <root id="archive" name="doubao-web-customer-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="doubao-web-customer:war exploded" />
+    </root>
+  </artifact>
+</component>

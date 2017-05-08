@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="doubao-api-zhongan:war">
+    <output-path>$PROJECT_DIR$/doubao-api-zhongan/target</output-path>
+    <root id="archive" name="doubao-api-zhongan-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="doubao-api-zhongan:war exploded" />
+    </root>
+  </artifact>
+</component>

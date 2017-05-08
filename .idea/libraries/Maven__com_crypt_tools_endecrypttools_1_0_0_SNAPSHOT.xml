@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.crypt.tools:endecrypttools:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/crypt/tools/endecrypttools/1.0.0-SNAPSHOT/endecrypttools-1.0.0-20161209.095404-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/crypt/tools/endecrypttools/1.0.0-SNAPSHOT/endecrypttools-1.0.0-20161209.095404-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/crypt/tools/endecrypttools/1.0.0-SNAPSHOT/endecrypttools-1.0.0-20161209.095404-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

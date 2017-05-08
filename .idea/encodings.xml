@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-api-easemob" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-api-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-api-youzan" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-api-zhongan" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-comm-axis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-comm-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-comm-cas" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-comm-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-comm-mail" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-comm-memcached" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-comm-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-comm-oss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-comm-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-comm-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-comm-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-job-ecpic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-web-channel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-web-customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-web-enterprise" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-web-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-web-job" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-web-mobile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-web-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-web-notify" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-web-personal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doubao-web-upload" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-web-gateway" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-web-gateway" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-web-customer" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-web-customer" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-web-channel" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-web-channel" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-job-ecpic" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-job-ecpic" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-web-personal" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-web-personal" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-web-notify" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-web-notify" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-web-job" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-web-job" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-web-enterprise" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-web-enterprise" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-comm-memcached" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-comm-memcached" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-comm-sms" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-comm-sms" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-comm-mail" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-comm-mail" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-comm-redis" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-comm-redis" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-comm-cas" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-comm-cas" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-comm-axis" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-comm-axis" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-comm-mq" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-comm-mq" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-comm-oss" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-comm-oss" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-comm-service" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-comm-service" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-comm-dao" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-comm-dao" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-comm-base" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-comm-base" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-web-mq" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-web-mq" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-api-zhongan" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-api-zhongan" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-api-weixin" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-api-weixin" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-api-easemob" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-api-easemob" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-api-youzan" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-api-youzan" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-web-mobile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-web-mobile" />
+      </profile>
+      <profile default="false" name="Annotation profile for doubao-web-upload" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="doubao-web-upload" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="doubao-api-easemob" target="1.7" />
+      <module name="doubao-api-weixin" target="1.7" />
+      <module name="doubao-api-youzan" target="1.7" />
+      <module name="doubao-api-zhongan" target="1.7" />
+      <module name="doubao-comm-axis" target="1.6" />
+      <module name="doubao-comm-base" target="1.7" />
+      <module name="doubao-comm-cas" target="1.7" />
+      <module name="doubao-comm-dao" target="1.7" />
+      <module name="doubao-comm-mail" target="1.7" />
+      <module name="doubao-comm-memcached" target="1.7" />
+      <module name="doubao-comm-mq" target="1.7" />
+      <module name="doubao-comm-oss" target="1.7" />
+      <module name="doubao-comm-redis" target="1.7" />
+      <module name="doubao-comm-service" target="1.6" />
+      <module name="doubao-comm-sms" target="1.7" />
+      <module name="doubao-job-ecpic" target="1.7" />
+      <module name="doubao-web-channel" target="1.6" />
+      <module name="doubao-web-customer" target="1.6" />
+      <module name="doubao-web-enterprise" target="1.6" />
+      <module name="doubao-web-gateway" target="1.6" />
+      <module name="doubao-web-job" target="1.7" />
+      <module name="doubao-web-mobile" target="1.7" />
+      <module name="doubao-web-mq" target="1.7" />
+      <module name="doubao-web-notify" target="1.7" />
+      <module name="doubao-web-personal" target="1.7" />
+      <module name="doubao-web-upload" target="1.7" />
+      <module name="server-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
